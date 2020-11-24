@@ -1,0 +1,11 @@
+p{
+    font-size:25px;
+}
+.map{
+    height: 100px;
+    width: 200px;
+    background-image: url('../img/japanmap.jpg');
+}
+/* body{
+    background: darkcyan;
+} */
