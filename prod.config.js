@@ -28,6 +28,9 @@ module.exports = merge(base,{
         poll:1000
     },
 
+    //devTool
+    devtool:'source-map',
+
     //生产模式
     mode:'production',
 })

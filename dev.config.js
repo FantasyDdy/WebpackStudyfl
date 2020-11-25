@@ -13,6 +13,8 @@ module.exports= merge(base,{
         stats:'minimal'
     },
 
+    //devTool
+    devtool:'eval-source-map',
 
     //开发模式
     mode:'development',
